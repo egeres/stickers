@@ -1,0 +1,2 @@
+# stickers
+Printer go brrrrr :)
