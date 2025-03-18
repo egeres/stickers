@@ -9,3 +9,8 @@
   <img src="4.png" alt="4" style="width: 32%; height: auto;"/>
   <img src="5.png" alt="5" style="width: 32%; height: auto;"/>
 </div>
+<div align="center" style="margin: 0;">
+  <img src="6.png" alt="6" style="width: 32%; height: auto;"/>
+  <img src="7.png" alt="7" style="width: 32%; height: auto;"/>
+  <img src="8.png" alt="8" style="width: 32%; height: auto;"/>
+</div>
